@@ -16,7 +16,7 @@ import Avatar from './components/Avatar.vue'
     </h1>
     <div class="flex mb-8">
       <Avatar person="lotta"/>
-      <div class="grow">]
+      <div class="grow">
         <div class="mb-8 text-lg">
           <p class="text-center font-bold text-stone-800">25.07 - 27.07</p>
           <p class="text-center font-bold text-stone-800 hover:text-stone-600">
