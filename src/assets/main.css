@@ -14,3 +14,15 @@
 body {
   font-family: 'Inter', sans-serif;
 }
+
+@utility btn {
+  @apply px-4 py-1 rounded-xl text-xl inline-block disabled:opacity-50;
+}
+
+@utility btn-lg {
+  @apply btn px-6 py-2 text-2xl;
+}
+
+@utility btn-primary {
+  @apply bg-emerald-900 hover:bg-emerald-950 active:bg-emerald-950 text-white;
+}

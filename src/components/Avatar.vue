@@ -1,6 +1,6 @@
 <template>
   <div class="">
-    <img class="max-w-24 max-h-24" :src="imageSrc" />
+    <img class="max-w-24 max-h-24 shadow-sm rounded-full" :src="imageSrc" />
     <div class="text-center font-slab text-stone-700">{{ name }}</div>
   </div>
 </template>
