@@ -13,10 +13,11 @@
 
 body {
   font-family: 'Inter', sans-serif;
+  @apply text-stone-700;
 }
 
 @utility btn {
-  @apply px-4 py-1 rounded-xl text-xl inline-block disabled:opacity-50;
+  @apply px-4 py-1 rounded-xl text-xl inline-block disabled:opacity-50 cursor-pointer;
 }
 
 @utility btn-lg {
@@ -25,4 +26,8 @@ body {
 
 @utility btn-primary {
   @apply bg-emerald-900 hover:bg-emerald-950 active:bg-emerald-950 text-white;
+}
+
+@utility btn-secondary {
+  @apply border-2 border-emerald-900 hover:bg-emerald-50 active:bg-emerald-100 text-emerald-950 ;
 }
