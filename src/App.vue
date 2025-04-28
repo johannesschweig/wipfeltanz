@@ -40,7 +40,7 @@ import Avatar from './components/Avatar.vue'
     <!-- Welcome -->
     <div class="mb-8 px-3 md:px-6 py-6 md:py-8 bg-orange-900 md:rounded-2xl">
       <div class="text-3xl font-slab text-orange-100 mb-4">Herzlich Willkommen</div>
-      <div class="text-stone-300 mb-4">Wir (Ise, Bcci, Lotta und Florenz) werden 30, 30, 30 und 23 Jahre alt und wollen
+      <div class="text-stone-300 mb-4">Wir (Ise, Bekki, Lotta und Florens) werden 30, 30, 30 und 23 Jahre alt und wollen
         deshalb mit Euch feiern.</div>
       <button class="btn-lg btn-primary">Zusagen</button>
     </div>

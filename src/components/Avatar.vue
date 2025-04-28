@@ -43,11 +43,11 @@ const name = computed(() => {
     case 'ise':
       return 'Ise'
     case 'becci':
-      return 'Becci'
+      return 'Bekki'
     case 'lotta':
       return 'Lotta'
     case 'florenz':
-      return 'Florenz'
+      return 'Florens'
     default:
       return ''
   }
