@@ -2,7 +2,7 @@
   <div class="mb-12">
     <div class="text-2xl font-slab text-orange-950 mb-2">Programm</div>
     <div class="mb-4">
-      <p>Der WIPFELTANZ wird ein kleines Mitmach-Festival. Das bedeutet, das Wochenende lebt von unseren eigenen
+      <p>Der WIPFELTANZ wird ein kleines Mitmach-Festival mit etwa 80 Personen. Das bedeutet, das Wochenende lebt von unseren eigenen
         Beiträgen. Die Location bietet viel Raum, den wir zusammen bespielen können (<a href="#"
           class="text-blue-600 underline">Lageplan</a>). Ideen wären zum Beispiel:</p>
     </div>
