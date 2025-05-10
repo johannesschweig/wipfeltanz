@@ -117,20 +117,131 @@ import Avatar from './components/Avatar.vue'
       </div>
       <div class="mb-12">
         <div class="text-2xl font-slab text-orange-950 mb-2">Programm</div>
-        <div class="mb-4">Wir alle machen das Programm. Reicht dazu gerne auf unserem Pad eigene Ideen ein!</div>
-        <button class="btn btn-secondary">Workshop einreichen</button>
-      </div>
+        <div class="mb-4">
+          <p>Der WIPFELTANZ wird ein kleines Mitmach-Festival. Das bedeutet, das Wochenende lebt von unseren eigenen
+            Beiträgen. Die Location bietet viel Raum, den wir zusammen bespielen können (<a href="#"
+              class="text-blue-600 underline">Lageplan</a>). Ideen wären zum Beispiel:</p>
+        </div>
 
-      <div class="mb-12">
-        <div class="text-2xl font-slab text-orange-950 mb-2">Essen</div>
-        <div class="mb-4">Im Wald gibt es genug Damm- und Rotwild für alle. Auf eine gute Bockjagd!</div>
+        <div class="mb-6">
+          <div class="text-xl font-slab text-orange-950 mb-2">Musik</div>
+          <p>Du willst auflegen, ein Instrument mitbringen oder mit deiner Band spielen? Meld dich bei uns, dann kriegen
+            wir das hin! Je früher wir wissen, welche Technik du brauchst und was du selbst mitbringen kannst, desto
+            besser.</p>
+        </div>
+
+        <div class="mb-6">
+          <div class="text-xl font-slab text-orange-950 mb-2">Workshops</div>
+          <p>Ob Kräuterwanderung, Makramee-Workshop, Loop-Station-Experimente, Improtheater, Contact-Impro, eine
+            Einführung in deinen Lieblings-Tanzstil oder eine Kampfsportart, (Acro-)Yoga, Meditation, Schnitzen,
+            Topfschlagen, Schreibwerkstatt oder etwas ganz anderes - Wir lieben eure Ideen!</p>
+          <p>Natürlich ist die Organisation von Workshops freiwillig, wir freuen uns auch, wenn du einfach dabei bist -
+            aber <strong>je mehr Gäste etwas beitragen, desto bunter wird unser Programm. Und je früher wir bescheid
+              wissen, desto besser können wir planen.</strong> Auch wenn du das Gefühl hast, du bist auf dem Gebiet noch
+            nicht so bewandert - wir können auch zusammen ausprobieren. Wir sehen den WIPFELTANZ als Experimentierwiese
+            - eine Lichtung im Wald für eure Ideen!</p>
+        </div>
+
+        <div class="mb-6">
+          <div class="text-xl font-slab text-orange-950 mb-2">Bring etwas mit!</div>
+          <p>Vielleicht willst du auch selbst etwas mitbringen, aber nicht extra einen Workshop dazu anbieten? Ideen
+            wären zum Beispiel Spiele wie Wikingerschach, Seifenblasen, Hoola-Hoop-Reifen, Slack-Line, BodyPainting /
+            Kinderschminken, Perlenbastel-Sets, ...</p>
+          <p>Deko ist auch sehr erwünscht. Wenn du also eine schöne Lichterkette hast oder etwas anderes, das Lobetal
+            noch schöner und gemütlicher macht, bring es mit! Teppiche und Tücher sind auch begehrt.</p>
+          <p>Hast du Technik für Musik, Schwarzlicht, Laser für Lichteffekte oder eine Nebelmaschine? Dann sag unbedingt
+            bescheid!</p>
+        </div>
+
+        <div class="mb-6">
+          <div class="text-xl font-slab text-orange-950 mb-2">Erkundung der Umgebung</div>
+          <p>Das Grundstück liegt mitten im Lobetaler Wald. Uns wird bestimmt nicht langweilig.</p>
+        </div>
+
+        <div class="mt-4">
+          <p>Wir freuen uns über jede Person, die Lust hat, etwas kleines oder großes beizusteuern. Egal ob du von einer
+            Idee gehört hast, die du gerne teilen würdest, oder absolute*r Expert*in auf einem Gebiet bist. Die einzige
+            Voraussetzung:</p>
+          <p class="font-bold">Du hast Bock!</p>
+        </div>
       </div>
+      <!-- Packliste -->
       <div class="mb-12">
-        <div class="text-2xl font-slab text-orange-950 mb-2">FAQ</div>
-        <div class="font-slab text-orange-950">Toilette</div>
-        <div class="mb-4">Es gibt eine im Haus</div>
-        <div class="font-slab text-orange-950">Zelten</div>
-        <div class="mb-4">Bitte gerne!</div>
+        <div class="text-2xl font-slab text-orange-950 mb-2">Packliste</div>
+        <ul class="list-disc list-inside space-y-2">
+          <!-- TODO Doc link -->
+          <li>Zelt, Isomatte und Schlafsack (wenn du kein Zelt oder ein Extra-Zelt hast, das du mitbringen kannst,
+            schreibs in das Doc)</li>
+          <li>Mückenspray</li>
+          <li>Sonnencreme</li>
+          <li>Geschirr, Besteck</li>
+          <li>Becher (Wir stellen Klebeband und Edding zum Beschriften)</li>
+          <li>Wasserflasche (Trinkwasser gibt es vor Ort)</li>
+          <li>Tuch oder Picknickdecke (Je mehr, desto besser!)</li>
+          <li>Campingstuhl/Hocker</li>
+          <li>Hängematte</li>
+          <li>warme Kleidung für nachts</li>
+          <li>Schuhe zum Tanzen und Walderkunden</li>
+          <li>Badesachen (es gibt wahrscheinlich ein großes Planschbecken und Seen in der Gegend)</li>
+          <li>ökologisch abbaubares Hygienezeug (Zahncreme, Duschgel, Shampoo)
+            <ul class="list-disc list-inside ml-6 space-y-2">
+              <li>Wir haben eine Outdoor-Dusche!</li>
+              <li>
+                Bitte nutzt den Wald fürs kleine Geschäft und die Plumpsklos fürs große Geschäft, da das eine Bad im
+                Wohnhaus für beispielsweise menstruierende Personen und Familien mit Kindern reserviert ist.
+              </li>
+            </ul>
+          </li>
+          <li>Handtuch</li>
+          <li>
+            <!-- TODO Doc link -->
+            Lebensmittel für unser <strong>Mitbring-Buffet</strong> (Abendessen für Freitag, Frühstück und Snacks für
+            tagsüber für Samstag). Bitte trage im Doc ein, was du mitbringst. Abendessen am Samstag und Frühstück am
+            Sonntag stellen wir.
+          </li>
+          <li>Dinge, die den Ort schöner machen, von Spielen über Lichterketten bis hin zu Seifenblasen</li>
+          <li>Was euch sonst noch so einfällt!</li>
+        </ul>
+      </div>
+      <!-- Verköstigung -->
+      <div class="mb-12">
+        <div class="text-2xl font-slab text-orange-950 mb-2">Verköstigung</div>
+        <div class="mb-4">
+          <p>Beim Wipfeltanz sollen nicht nur die Hüften geschwungen werden, es soll auch geschmaust werden.</p>
+        </div>
+        <div class="mb-4">
+          <p>Zum Abendessen am Freitag und Frühstück am Samstag wird es eine große Tafel mit mitgebrachten Leckereien
+            geben. Tragt gerne im <a href="#" class="text-blue-600 underline">Rise up Pad</a> ein, was ihr beisteuert,
+            damit ein buntes Buffet entstehen kann.</p>
+        </div>
+        <div class="mb-4">
+          <p>Samstagabend bauen wir eine non-stop-hotdog-station (in veggie und vegan) auf. Zusätzlich wird es Rohkost
+            und Salate geben, die wir zusammen schnippeln können. Wir kaufen ein.</p>
+        </div>
+        <div class="mb-4">
+          <p>Am Sonntagmorgen holen wir Brötchen beim Bäcker und stellen Basics an Belag. Damit alle gestärkt die
+            Heimreise antreten können.</p>
+        </div>
+        <div class="mb-4">
+          <h3 class="text-xl font-bold text-orange-950 mb-2">Getränke</h3>
+          <p>Bier, Sekt, einige Limos, alkoholfreies Bier und Leitungswasser stellen wir. Wem was fehlt, darf das gerne
+            selbst mitbringen.</p>
+        </div>
+      </div>
+      <!-- Finanzierung -->
+      <div class="mb-12">
+        <div class="text-2xl font-slab text-orange-950 mb-2">Finanzierung</div>
+        <div class="mb-4">
+          <p>Um einen Teil der Veranstaltung zu finanzieren, bitten wir euch um einen Unkostenbeitrag für Location, Technik, Getränke, das Abendessen am Samstag und Frühstück am Sonntag (Empfehlung: <strong>25-50€</strong> pro Person). Bitte schätze selbst ehrlich ein, wie viel du konsumierst und wie viel du geben kannst. Wir wollen allen die Teilnahme ermöglichen - am Geld soll es nicht scheitern!</p>
+        </div>
+        <div class="mb-4">
+          <p>Bitte überweise deinen Beitrag bis zum <strong>15.06.</strong> per PayPal an Lottas PayPal-Adresse: <a href="mailto:markoetter@posteo.de" class="text-blue-600 underline">markoetter@posteo.de</a>.</p>
+          <!-- TODO paypal me link -->
+        </div>
+        <div class="mb-4">
+          <p>Falls du Fragen hast, kannst du dich immer bei uns melden.</p>
+        </div>
+        <img src="./assets/group.jpg" class="" />
       </div>
     </div>
   </div>
