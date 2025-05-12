@@ -10,7 +10,7 @@
     </div>
     <div class="mb-4">
       <p>Bitte überweise deinen Beitrag bis zum <strong>15.06.</strong> per PayPal an Lottas PayPal-Adresse: <a
-          href="mailto:markoetter@posteo.de" class="text-blue-600 underline">markoetter@posteo.de</a>.</p>
+          href="mailto:markoetter@posteo.de" class="link">markoetter@posteo.de</a>.</p>
       <!-- TODO paypal me link -->
     </div>
     <div class="mb-4">

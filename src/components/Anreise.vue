@@ -31,7 +31,7 @@
       unregelmäßig. Schaut bitte, dass ihr eine gute Bahnverbindung findet. Wir sind selbst nicht sehr mobil und
       können nur im Notfall per Auto abholen.
       <br /><br />
-      <a href="https://bbg-eberswalde.de/images/bernau/890/890_241215.pdf" class="text-blue-600 underline"
+      <a href="https://bbg-eberswalde.de/images/bernau/890/890_241215.pdf" class="link"
         target="_blank">Busfahrplan</a>
       <br /><br />
       <div class="text-lg font-slab text-orange-950 mb-2">Anreise Bus</div>

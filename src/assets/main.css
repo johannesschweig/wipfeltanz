@@ -31,3 +31,7 @@ body {
 @utility btn-secondary {
   @apply border-2 border-emerald-900 hover:bg-emerald-50 active:bg-emerald-100 text-emerald-950 ;
 }
+
+@utility link {
+  @apply text-orange-800 hover:text-orange-900 active:text-orange-900 underline decoration-wavy;
+}

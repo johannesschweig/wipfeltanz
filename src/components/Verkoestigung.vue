@@ -6,7 +6,7 @@
     </div>
     <div class="mb-4">
       <p>Zum Abendessen am Freitag und Frühstück am Samstag wird es eine große Tafel mit mitgebrachten Leckereien
-        geben. Tragt gerne im <a href="#" class="text-blue-600 underline">Rise up Pad</a> ein, was ihr beisteuert,
+        geben. Tragt gerne im <a href="#" class="link">Rise up Pad</a> ein, was ihr beisteuert,
         damit ein buntes Buffet entstehen kann.</p>
     </div>
     <div class="mb-4">

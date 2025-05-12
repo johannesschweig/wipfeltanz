@@ -10,9 +10,9 @@ import Welcome from './components/Welcome.vue'
     <Hero />
     <!-- Welcome -->
     <Welcome />
+    <Tabbar />
     <!-- Details -->
     <div class="mx-3 md:mx-6">
-      <Tabbar />
       <router-view />
     </div>
   </div>

@@ -13,14 +13,14 @@ import treesImage from '@/assets/trees.png'
       <div class="grow"></div>
       <Avatar person="becci" />
     </div>
-    <h1 class="text-6xl mb-8 text-center font-slab">
+    <h1 class="text-5xl md:text-6xl mb-8 text-center font-slab">
       <div class="text-emerald-900 mb-4">Wipfeltanz</div>
-      <div class="text-orange-900 text-4xl">Es hallt im Wald!</div>
+      <div class="text-orange-900 text-3xl md:text-4xl">Es hallt im Wald!</div>
     </h1>
     <div class="flex mb-8">
       <Avatar person="lotta" />
       <div class="grow flex justify-center">
-        <div class="mb-8 text-lg font-bold mx-auto">
+        <div class="mb-8 text-base md:text-lg md:font-bold mx-auto">
           <div class="grid grid-cols-[16px_1fr] items-center gap-2 mb-4">
             <img src="@/assets/calendar.svg" class="max-w-4" />
             <div class="">25.07 - 27.07</div>
