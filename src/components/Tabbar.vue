@@ -4,11 +4,11 @@ import { useRoute } from 'vue-router'
 // Define an array of routes
 const routes = [
   { path: '/', name: 'Lageplan' },
-  { path: '/anreise', name: 'Anreise' },
   { path: '/programm', name: 'Programm' },
-  { path: '/packliste', name: 'Packliste' },
-  { path: '/verkoestigung', name: 'Verköstigung' },
+  { path: '/essen', name: 'Essen' },
   { path: '/finanzierung', name: 'Finanzierung' },
+  { path: '/packliste', name: 'Packliste' },
+  { path: '/anreise', name: 'Anreise' },
 ]
 </script>
 

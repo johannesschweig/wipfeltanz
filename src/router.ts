@@ -5,7 +5,7 @@ import Lageplan from './components/Lageplan.vue'
 import Anreise from './components/Anreise.vue'
 import Programm from './components/Programm.vue'
 import Packliste from './components/Packliste.vue'
-import Verkoestigung from './components/Verkoestigung.vue'
+import Essen from './components/Essen.vue'
 import Finanzierung from './components/Finanzierung.vue'
 
 const routes = [
@@ -13,7 +13,7 @@ const routes = [
   { path: '/anreise', component: Anreise },
   { path: '/programm', component: Programm },
   { path: '/packliste', component: Packliste },
-  { path: '/verkoestigung', component: Verkoestigung },
+  { path: '/essen', component: Essen },
   { path: '/finanzierung', component: Finanzierung },
 ]
 

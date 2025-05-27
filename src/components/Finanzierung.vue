@@ -9,8 +9,7 @@
         Teilnahme ermöglichen - am Geld soll es nicht scheitern!</p>
     </div>
     <div class="mb-4">
-      <p>Bitte überweise deinen Beitrag bis zum <strong>15.06.</strong> per PayPal an Lottas PayPal-Adresse: <a
-          href="mailto:markoetter@posteo.de" class="link">markoetter@posteo.de</a>.</p>
+      <p>Bitte überweise deinen Beitrag bis zum <strong>15.06.</strong> per PayPal an Lottas PayPal-Adresse. Die haben wir dir in einer privaten Nachricht geschickt :)</p>
       <!-- TODO paypal me link -->
     </div>
     <div class="mb-4">

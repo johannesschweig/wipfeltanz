@@ -1,12 +1,12 @@
 <template>
   <div class="mb-12">
-    <div class="text-2xl font-slab text-orange-950 mb-2">Verköstigung</div>
+    <div class="text-2xl font-slab text-orange-950 mb-2">Essen</div>
     <div class="mb-4">
       <p>Beim Wipfeltanz sollen nicht nur die Hüften geschwungen werden, es soll auch geschmaust werden.</p>
     </div>
     <div class="mb-4">
       <p>Zum Abendessen am Freitag und Frühstück am Samstag wird es eine große Tafel mit mitgebrachten Leckereien
-        geben. Tragt gerne im <a href="#" class="link">Rise up Pad</a> ein, was ihr beisteuert,
+        geben. Tragt gerne im <a href="https://docs.google.com/spreadsheets/d/1vsvm090Pf1asv8d7KfzD-HTHJ6H24EnewakEDMP-geM/edit?gid=0#gid=0" class="link">Google Docs</a> ein, was ihr beisteuert,
         damit ein buntes Buffet entstehen kann.</p>
     </div>
     <div class="mb-4">
