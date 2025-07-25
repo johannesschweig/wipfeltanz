@@ -31,8 +31,7 @@
       unregelmäßig. Schaut bitte, dass ihr eine gute Bahnverbindung findet. Wir sind selbst nicht sehr mobil und
       können nur im Notfall per Auto abholen.
       <br /><br />
-      <a href="https://bbg-eberswalde.de/images/bernau/890/890_250610.pdf" class="link"
-        target="_blank">Busfahrplan</a>
+      <a href="https://bbg-eberswalde.de/images/bernau/890/890_250610.pdf" class="link" target="_blank">Busfahrplan</a>
       <br /><br />
       <div class="text-lg font-slab text-orange-950 mb-2">Anreise Bus</div>
       Einstieg Bernau Bhf<br />
@@ -61,8 +60,15 @@
       16321 Bernau bei Berlin
       <br /><br />
       Mit Navi solltet ihr problemlos zum Gelände finden. Auf dem Gelände selbst wird es keinen Platz für Autos
-      geben. Etwa 150m entfernt gibt es einen stillgelegten Feldweg, den wir ausschildern. Hier kann der fahrbare
+      geben.
+      <br /> <br />
+      <div class="text-lg font-slab text-orange-950 mb-2">Parken</div>
+      Etwa 150m entfernt gibt es einen stillgelegten Waldweg, den wir ausschildern. Hier kann der fahrbare
       Untersatz abgestellt werden.
+      Auf dem rot markierten Waldweg könnt ihr eure Autos abstellen. Bei der Markierung führt ein kleiner Weg Richtung
+      Festivalgelände. Wir schildern ihn aus und hängen Luftballons auf, an denen ihr euch orientieren könnt 🎈
+      <a href="https://goo.gl/maps/P4M8gRgHZhZaxeWTA" class="link block" target="_blank">Google Maps Link fürs Parken</a>
+      <img src="@/assets/parking.jpg" class="mt-4" />
     </div>
   </div>
 </template>
